@@ -1,9 +1,9 @@
 // Setup
-function testEqual(val) {
+function testStrict(val) {
   if (val) { // Change this line
     return "Equal";
   }
   return "Not Equal";
 }
 
-testEqual(10);
+testStrict(10);
