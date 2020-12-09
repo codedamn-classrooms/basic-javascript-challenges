@@ -1,9 +1,13 @@
-// Setup
-function testStrictNotEqual(val) {
-  if (val) { // Change this line
-    return "Not Equal";
+function testGreaterThan(val) {
+  if (val) {  // Change this line
+    return "Over 100";
   }
-  return "Equal";
+
+  if (val) {  // Change this line
+    return "Over 10";
+  }
+
+  return "10 or Under";
 }
 
-testStrictNotEqual(10);
+testGreaterThan(10);
