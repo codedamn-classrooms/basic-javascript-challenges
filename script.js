@@ -1,5 +1,5 @@
-function convertToInteger(str) {
+function checkEqual(a, b) {
 
 }
 
-convertToInteger("10011");
+checkEqual(1, 2);
