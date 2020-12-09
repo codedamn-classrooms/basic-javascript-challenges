@@ -1,5 +1,5 @@
-function checkEqual(a, b) {
+function checkSign(num) {
 
 }
 
-checkEqual(1, 2);
+checkSign(10);
