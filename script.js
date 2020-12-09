@@ -1,1 +1,3 @@
-var myStr; // Change this line
+// Only change code below this line
+
+var myStr;
