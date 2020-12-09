@@ -1,4 +1,4 @@
-function switchOfStuff(val) {
+function sequentialSizes(val) {
   var answer = "";
   // Only change code below this line
 
@@ -8,4 +8,4 @@ function switchOfStuff(val) {
   return answer;
 }
 
-switchOfStuff(1);
+sequentialSizes(1);
