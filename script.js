@@ -1,4 +1,5 @@
-function testSize(num) {
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
   // Only change code below this line
 
 
@@ -6,4 +7,4 @@ function testSize(num) {
   // Only change code above this line
 }
 
-testSize(7);
+golfScore(5, 4);
