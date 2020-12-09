@@ -2,4 +2,4 @@
 var lastName = "Lovelace";
 
 // Only change code below this line
-var thirdLetterOfLastName = lastName; // Change this line
+var lastLetterOfLastName = lastName; // Change this line
