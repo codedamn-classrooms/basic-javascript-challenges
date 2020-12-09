@@ -1,1 +1,1 @@
-var myList = [];
+// your javascript file
