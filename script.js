@@ -1,5 +1,5 @@
-function checkSign(num) {
-
+// Only change code below this line
+function countdown(n){
+  return;
 }
-
-checkSign(10);
+// Only change code above this line
