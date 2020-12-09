@@ -1,3 +1,4 @@
-// Only change code below this line
-var myName;
-var myStr;
+// Change code below this line
+
+var someAdjective;
+var myStr = "Learning to code is ";
