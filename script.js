@@ -1,6 +1,6 @@
 // Setup
-var firstLetterOfLastName = "";
-var lastName = "Lovelace";
+var myStr = "Jello World";
 
 // Only change code below this line
-firstLetterOfLastName = lastName; // Change this line
+myStr[0] = "H"; // Change this line
+// Only change code above this line
