@@ -1,14 +1,23 @@
 // Setup
-var myStorage = {
-  "car": {
-    "inside": {
-      "glove box": "maps",
-      "passenger seat": "crumbs"
-     },
-    "outside": {
-      "trunk": "jack"
-    }
+var myPlants = [
+  {
+    type: "flowers",
+    list: [
+      "rose",
+      "tulip",
+      "dandelion"
+    ]
+  },
+  {
+    type: "trees",
+    list: [
+      "fir",
+      "pine",
+      "birch"
+    ]
   }
-};
+];
 
-var gloveBoxContents = undefined; // Change this line
+// Only change code below this line
+
+var secondTree = ""; // Change this line
