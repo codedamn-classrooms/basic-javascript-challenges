@@ -1,1 +1,1 @@
-var difference = 45 - 0;
+var product = 8 * 0;
