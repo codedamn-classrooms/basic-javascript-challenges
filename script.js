@@ -1,16 +1,17 @@
-function testLogicalOr(val) {
+function testElse(val) {
+  var result = "";
   // Only change code below this line
 
-  if (val) {
-    return "Outside";
+  if (val > 5) {
+    result = "Bigger than 5";
   }
 
-  if (val) {
-    return "Outside";
+  if (val <= 5) {
+    result = "5 or Smaller";
   }
 
   // Only change code above this line
-  return "Inside";
+  return result;
 }
 
-testLogicalOr(15);
+testElse(4);
