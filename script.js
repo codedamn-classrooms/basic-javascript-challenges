@@ -1,8 +1,8 @@
-var a = 11;
-var b = 9;
-var c = 3;
+var a = 5;
+var b = 12;
+var c = 4.6;
 
 // Only change code below this line
-a = a - 6;
-b = b - 15;
-c = c - 1;
+a = a * 5;
+b = 3 * b;
+c = c * 10;
