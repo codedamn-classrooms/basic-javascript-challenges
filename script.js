@@ -1,1 +1,1 @@
-// your javascript file
+var myStr = ""; // Change this line
