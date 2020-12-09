@@ -1,1 +1,1 @@
-var sum = 10 + 0;
+var difference = 45 - 0;
