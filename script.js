@@ -1,1 +1,1 @@
-var product = 2.0 * 0.0;
+var quotient = 0.0 / 2.0; // Change this line
