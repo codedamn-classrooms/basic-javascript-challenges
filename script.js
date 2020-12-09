@@ -1,11 +1,9 @@
-function orderMyLogic(val) {
-  if (val < 10) {
-    return "Less than 10";
-  } else if (val < 5) {
-    return "Less than 5";
-  } else {
-    return "Greater than or equal to 10";
-  }
+function testSize(num) {
+  // Only change code below this line
+
+
+  return "Change Me";
+  // Only change code above this line
 }
 
-orderMyLogic(7);
+testSize(7);
