@@ -1,9 +1,9 @@
-function multiplyAll(arr) {
-  var product = 1;
-  // Only change code below this line
+// Setup
+var myArray = [];
+var i = 10;
 
-  // Only change code above this line
-  return product;
+// Only change code below this line
+while (i < 5) {
+  myArray.push(i);
+  i++;
 }
-
-multiplyAll([[1,2],[3,4],[5,6,7]]);
