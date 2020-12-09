@@ -2,4 +2,4 @@ function convertToInteger(str) {
 
 }
 
-convertToInteger("56");
+convertToInteger("10011");
