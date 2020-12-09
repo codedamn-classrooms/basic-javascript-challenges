@@ -1,9 +1,9 @@
-// Only change code below this line
-var a;
-var b;
-var c;
-// Only change code above this line
+// Variable declarations
+var StUdLyCapVaR;
+var properCamelCase;
+var TitleCaseOver;
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+// Variable assignments
+STUDLYCAPVAR = 10;
+PRoperCAmelCAse = "A String";
+tITLEcASEoVER = 9000;
