@@ -1,4 +1,4 @@
-function caseInSwitch(val) {
+function switchOfStuff(val) {
   var answer = "";
   // Only change code below this line
 
@@ -8,4 +8,4 @@ function caseInSwitch(val) {
   return answer;
 }
 
-caseInSwitch(1);
+switchOfStuff(1);
