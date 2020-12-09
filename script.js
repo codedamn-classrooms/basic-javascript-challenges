@@ -1,11 +1,11 @@
 // Setup
 var testObj = {
-  "hat": "ballcap",
-  "shirt": "jersey",
-  "shoes": "cleats"
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
 };
 
 // Only change code below this line
 
-var hatValue = testObj;      // Change this line
-var shirtValue = testObj;    // Change this line
+var entreeValue = testObj;   // Change this line
+var drinkValue = testObj;    // Change this line
