@@ -1,10 +1,11 @@
-var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
-function golfScore(par, strokes) {
+function caseInSwitch(val) {
+  var answer = "";
   // Only change code below this line
 
 
-  return "Change Me";
+
   // Only change code above this line
+  return answer;
 }
 
-golfScore(5, 4);
+caseInSwitch(1);
