@@ -1,2 +1,2 @@
 tabs: ["script.js"]
-run-button: node $$file
+terminals: ["static-server -p 1337 --no-cache"]
